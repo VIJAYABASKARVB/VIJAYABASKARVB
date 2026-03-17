@@ -3,9 +3,8 @@
 <h3 align="center">I'm an developer!</h3>
 
 - 🌱 I’m currently learning **React-JS,Node.js,Express.js**
-
-<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **vijayabaskar815@gmail.com**
+
 <p align="left">
 </p>
 
