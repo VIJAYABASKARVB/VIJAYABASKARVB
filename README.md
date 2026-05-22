@@ -6,7 +6,7 @@ I'm a full-stack developer focused on building scalable web applications using t
 - MERN Stack projects
 - Backend development with Node.js and Express.js
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIJAYABASKARVB&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIJAYABASKARVB&show_icons=true&theme=dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VIJAYABASKARVB&theme=dark)](https://git.io/streak-stats)
 
