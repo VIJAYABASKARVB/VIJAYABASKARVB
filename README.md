@@ -1,6 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working and 🌱 learning   <br>- Building MERN Stack applications .<br><br>👯 I’m looking to collaborate on  <br>- MERN Stack projects  <br>- Backend development using Node.js and Express.js
+# About Me
 
+I'm a full-stack developer focused on building scalable web applications using the MERN stack. Currently deepening my expertise in React, Node.js, and modern frontend tooling.
+
+**Open to collaborating on:**
+- MERN Stack projects
+- Backend development with Node.js and Express.js
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIJAYABASKARVB&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VIJAYABASKARVB&theme=dark)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayabaskar815@gmail.com) 
