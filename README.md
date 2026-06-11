@@ -1,4 +1,4 @@
-# About Me
+[# About Me
 
 I'm a full-stack developer focused on building scalable web applications using the MERN stack. Currently deepening my expertise in React, Node.js, and modern frontend tooling.
 
@@ -20,3 +20,4 @@ I'm a full-stack developer focused on building scalable web applications using t
 [![](https://visitcount.itsvg.in/api?id=VIJAYABASKARVB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.linkedin.com/in/vijayabaskar111/)
